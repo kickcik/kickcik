@@ -28,7 +28,7 @@
   <br/>
   
   ## 🤔 Github Stats
-  ![Visitor](https://komarev.com/ghpvc/?username=kickcik&color=blue)
+  ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=kickcik.kickcik)
   <br/>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kickcik)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
