@@ -2,7 +2,7 @@
 
 <div>
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=WELCOME%A4%97)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=WELCOME%F0%9F%A4%97)
   
 </div>
 
