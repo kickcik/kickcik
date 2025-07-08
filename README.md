@@ -19,33 +19,24 @@
   ### Learning Language
   <!--Python-->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  <!--JavaScript-->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-  <!--HTML5-->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-  <!--CSS-->
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   <br/>
   
   ### Learning Framework
-  <!--Flask-->
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
-  <!--Django-->
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
-
   
   ### Learning ETC
-  <!--Amazon AWS-->
-  <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logoColor=white"/>
-  <!--MySQL-->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <br/>
   <br/>
   
   ## 🤔 Github Stats
-  [!['s GitHub stats](https://github-readme-stats.vercel.app/api?username=kickcik)](https://github.com/anuraghazra/github-readme-stats)
+  ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=kickcik.kickcik)
   <br/>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kickcik)](https://github.com/anuraghazra/github-readme-stats)
+  <br/>
+  [!['s GitHub stats](https://github-readme-stats.vercel.app/api?username=kickcik&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  <br/>
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=kickcik&theme=radical)](https://git.io/streak-stats)
+  <br/>
+  [![trophy](https://github-profile-trophy.vercel.app/?username=kickcik&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
   
 </div>
 
