@@ -10,7 +10,7 @@
   
   ## 👀 About Me
   #### :raising_hand: I am Kickcik<br/>
-  #### :fire: I aim to become a Backend Devloper<br/>
+  #### :fire: I aim to become a Backend Developer<br/>
   #### :mortar_board: ...
   <br/>
   <br/>
